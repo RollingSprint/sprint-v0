@@ -24,9 +24,9 @@ The focus is on:
 
 ----Timeline----
 
-Week 0: Sprint kickoff & planning
-Weeks 1–3: Build phase
-Week 4: Finalization, demo, and self-evaluation
+- Week 0: Sprint kickoff & planning
+- Weeks 1–3: Build phase
+- Week 4: Finalization, demo, and self-evaluation
 
 ----Deliverables----
 
@@ -68,4 +68,5 @@ Results are used only for:
 ----Final Note----
 
 Sprint v0 defines the standard.
+
 Future sprints will be judged against the clarity, completeness, and execution demonstrated here.
